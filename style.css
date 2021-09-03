@@ -1,0 +1,17 @@
+body {
+    background:#263238;
+    color:#00B8D4 ;
+    text-align: left;
+  }
+  
+  .top {
+    color: black;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+  }
+  
+  .bot {
+    color: black;
+    margin-left: 25%
+  }
